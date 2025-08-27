@@ -10,6 +10,10 @@ Demo of the Zero Configuration Project (In progress...)
    
 ![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/dashboard.png)
 
+#### Sample Stream
+
+![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/sample_stream.png)
+
 ## Setup
 #### This is where the user can add their cameras that they want to stream
 1. Enter WiFi credentials (SSID, Password)
@@ -36,3 +40,12 @@ Demo of the Zero Configuration Project (In progress...)
 ![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/camera_view.png)
 
 # Cameras
+#### Created firmware for the ESP32-S3 development board that includes QR code scanning and streaming functionalities.
+
+![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/board.png)
+
+#### Combiined this board with a seperate OV5640 5MP Auto Focus Camera Module for better streaming performance and quality.
+
+![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/camera.png)
+
+
