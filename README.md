@@ -39,7 +39,7 @@ Demo of the Zero Configuration Project (In progress...)
 
 ![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/camera_view.png)
 
-# Cameras
+# Tech
 #### Created firmware for the ESP32-S3 development board that includes QR code scanning and streaming functionalities.
 
 ![alt text](https://github.com/neel-kotichintala/ZeroConfigCamDemo/raw/main/demo/board.png)
